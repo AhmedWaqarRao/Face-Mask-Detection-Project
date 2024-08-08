@@ -1,0 +1,5 @@
+Face Mask Detection Using YOLOFace Mask Detection Using YOLO
+
+Classified 2 classes masked and not_masked by using the following dataset from kaggle:
+https://www.kaggle.com/andrewmvd/face-mask-detection
+Labelling was performed using LabelImg tool using YOLO format on around 600 images.
